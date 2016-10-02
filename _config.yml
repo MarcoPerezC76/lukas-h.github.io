@@ -1,25 +1,25 @@
 title: "TICS76"
-description: "Lukas Himsels persönliche Website mit Themen wie Musik, Klaviere, Open-Data, Open-Source und Webprojekten."
-about: "Schüler, der gerne Klavier spielt, Joggen geht und <i>versucht</i>, Websites und Programme zu entwickeln."
-location: "Deutschland, Kitzingen"
-email: lukas@himsel.me
+description: "Este es el blog para apoyo de la calse de TICS"
+about: "Este blog esta conformado de infromacion de diversas fuentes y contenido de mi propiedad"
+location: "Mexico, CDMX"
+email: marco.perez.cetis76@gmail.com
 baseurl: ""
-url: "http://himsel.me"
-twitter_username: lukashimsel
-github_username:  lukas-h
+url: "http://marcoc76.github.io"
+twitter_username: 
+github_username:  marcoc76
 
 # google analytics tracking code, please change the value
-g_analytics: "UA-72004048-3"
+g_analytics: ""
 
 # language settings
-isolang: de
-close_btn: "Ausblenden"
-home_btn: "Startseite"
-projects_btn: "Projekte"
-posts_btn: "Posts"
+isolang: es
+close_btn: "Cerrar"
+home_btn: "Inicio"
+projects_btn: "Proyectos"
+posts_btn: "Entradas"
 imprint_btn: "Impressum"
-name_badge: "Ein Artikel von"
-rss_badge: "Feed abbonieren!"
+name_badge: "Ing. Marco Antonio"
+rss_badge: ""
 
 # build settings
 markdown: kramdown
