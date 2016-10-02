@@ -13,7 +13,6 @@ g_analytics: ""
 
 # language settings
 isolang: es
-registro_btn: "Registro"
 close_btn: "Cerrar"
 home_btn: "Inicio"
 projects_btn: "Tutorias"
