@@ -15,7 +15,7 @@ g_analytics: ""
 isolang: es
 close_btn: "Cerrar"
 home_btn: "Inicio"
-
+projects_btn: "Tutorias"
 posts_btn: "Entradas"
 imprint_btn: "Contacto"
 name_badge: "Ing. Marco Antonio"
