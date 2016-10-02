@@ -1,6 +1,6 @@
 title: "TICS76"
 description: "Este es el blog para apoyo de la calse de TICS"
-about: "Este blog esta conformado de infromacion de diversas fuentes y contenido de mi propiedad"
+about: "Este es el blog para apoyo de la calse de TICS"
 location: "Mexico, CDMX"
 email: marco.perez.cetis76@gmail.com
 baseurl: ""
@@ -15,9 +15,9 @@ g_analytics: ""
 isolang: es
 close_btn: "Cerrar"
 home_btn: "Inicio"
-projects_btn: "Proyectos"
+
 posts_btn: "Entradas"
-imprint_btn: "Impressum"
+imprint_btn: "Contacto"
 name_badge: "Ing. Marco Antonio"
 rss_badge: ""
 
