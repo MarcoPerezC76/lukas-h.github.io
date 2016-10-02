@@ -1,1 +1,15 @@
+- name: Video 1
+  link: "https://youtube.com"
+  description: "Video para tutorias de primero c"
 
+- name: Video 2
+  link: "https://youtube.com"
+  description: "Video para tutorias de primero c"
+
+- name: Video 2
+  link: "https://youtube.com"
+  description: "Video para tutorias de primero c"
+
+- name: PDF
+  link: "https://youtube.com"
+  description: "PDF para tutorias de primero c"
