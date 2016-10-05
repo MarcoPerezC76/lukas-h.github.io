@@ -1,15 +1,3 @@
-- name: Video 1
-  link: "https://youtube.com"
-  description: "Video para tutorias de primero c"
-
-- name: Video 2
-  link: "https://youtube.com"
-  description: "Video para tutorias de primero c"
-
-- name: Video 2
-  link: "https://youtube.com"
-  description: "Video para tutorias de primero c"
-
-- name: PDF
-  link: "https://youtube.com"
-  description: "PDF para tutorias de primero c"
+- name: Algebra Baldor
+  link: "http://saber9y11.edu.co/recursos/algebrabaldor.pdf"
+  description: "Para repasar Algebra"
