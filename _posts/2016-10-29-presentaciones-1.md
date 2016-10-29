@@ -60,7 +60,7 @@ De esta manera la transmisión del mensaje se hace de una forma más clara y no 
 
 En las presentaciones no efectivas las diapositivas se ven saturadas, se están utilizando textos claros sobre fondos claros, la combinación de colores son más de tres.
 <br> 
-![]({{ site.baseurl }}/images/2016-10-29-presentaciones-1/noefectiva.png)
+![]({{ site.baseurl }}/images/2016-10-29-presentaciones-1/noefectiva.jpg)
 De esta manera la comunicación se envicia ya que existen muchas distracciones para el lector y no se logra transmitir la idea principal.
 <br> 
 
@@ -74,4 +74,4 @@ El primer paso a seguir es la planeación, proceso que permite darle orden lógi
 ***
 
 # FORMULARIO 1:
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfaRRM5FiwaA7Y1VAw2Zn0OyEV7BWd1dVvkTRSLDLJCvXbSgg/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfaRRM5FiwaA7Y1VAw2Zn0OyEV7BWd1dVvkTRSLDLJCvXbSgg/viewform?embedded=true" width="300" height="800" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
