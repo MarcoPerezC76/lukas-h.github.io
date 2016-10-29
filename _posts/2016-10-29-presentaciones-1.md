@@ -31,6 +31,7 @@ Existen diversas motivaciones por las que se realizan presentaciones electrónic
 
 Las presentaciones electrónicas estructuralmente se dividen en cinco partes: 
 <br>
+
 * PORTADA 
  : Es la parte principal de una presentación electrónica dentro debe de mencionar el autor y/o instructor de la presentación, el nombre programa educativo para el cual fue desarrollada, unidad de aprendizaje y tema en donde se va a utilizar.
 <br> 
