@@ -74,4 +74,4 @@ El primer paso a seguir es la planeación, proceso que permite darle orden lógi
 ***
 
 # FORMULARIO 1:
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfaRRM5FiwaA7Y1VAw2Zn0OyEV7BWd1dVvkTRSLDLJCvXbSgg/viewform?embedded=true" width="300" height="800" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfaRRM5FiwaA7Y1VAw2Zn0OyEV7BWd1dVvkTRSLDLJCvXbSgg/viewform?embedded=true" width="500" height="1000" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
