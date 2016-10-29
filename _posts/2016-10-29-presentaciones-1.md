@@ -9,7 +9,7 @@ author: "Marco Antonio"
 # PRESENTACIONES ELECTRONICAS
 
 Las presentaciones electrónicas son una manera estructurada de presentar información mediante el apoyo de elementos multimedia (texto, imágenes y animación) enriqueciendo de esta manera la transmisión del conocimiento. 
-<br>
+<br><br>
 Existen diversas motivaciones por las que se realizan presentaciones electrónicas pueden ser para: informar, persuadir, enseñar. Resulta obvio que la motivación que se logre establecer a la hora de enseñar incidirá sobre el resto de los aspectos relacionados.
 <br>
 
@@ -51,16 +51,18 @@ Las presentaciones electrónicas estructuralmente se dividen en cinco partes:
 ## PRESENTACIÓN EFECTIVA
 
 Una presentación efectiva tiene realce de colores, fondos oscuros y textos claros, las diapositivas tienen una armonía entre si y no se están utilizando más de tres colores en las diapositivas.
-<br> 
+<br> <br>
 ![]({{ site.baseurl }}/images/2016-10-29-presentaciones-1/efectiva.png)
+<br><br>
 De esta manera la transmisión del mensaje se hace de una forma más clara y no se ensucia la comunicación con el lector utilizando gráficos excedentes o palabras que no tengan sentido dentro de esta.
 <br>
 
 ## PRESENTACIÓN NO EFECTIVA
 
 En las presentaciones no efectivas las diapositivas se ven saturadas, se están utilizando textos claros sobre fondos claros, la combinación de colores son más de tres.
-<br> 
+<br> <br>
 ![]({{ site.baseurl }}/images/2016-10-29-presentaciones-1/noefectiva.jpg)
+<br><br>
 De esta manera la comunicación se envicia ya que existen muchas distracciones para el lector y no se logra transmitir la idea principal.
 <br> 
 
