@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Presentaciones 2"
-date:   2016-10-29 17:30:00 +0200
-tags: ['Presentacion', 'Electronica', 'Efectiva']
+date:   2016-10-30 17:30:00 +0200
+tags: ['Presentacion', 'Entorno', 'PowerPoint']
 author: "Marco Antonio"
 ---
 
@@ -50,10 +50,3 @@ Para crear una presentación a partir de una plantilla sigue los pasos:
 
 1. En la ficha Archivo, haz clic en Nuevo.
 2. En las Plantillas Office.com, haz clic en una categoría de plantillas, la que desees ocupar.
-
-***
-***
-
-# Actividad:
-
-<a target="_blank" href="#!">Formulario 2</a>
