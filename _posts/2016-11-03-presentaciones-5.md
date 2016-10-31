@@ -49,3 +49,7 @@ El botón Agregar Animación permite dar más de una animación al mismo objeto,
 1.	Con la presentación anterior, agregue animaciones y transiciones a cada diapositiva y a cada elemento.
 2.	Guarde el archivo con el nombre: “Presentación 4 – NOMBRE COMPLETO y GRUPO”.
 
+***LOS DOCUMENTOS GENERADOS DEBERÁN SER ENTREGADOS EN LA SIGUIENTE DIRECCIÓN DE CORREO ELECTRÓNICO:*** <br>
+<center>
+<h3>marco.perez.cetis76@gmail.com</h3>
+</center>

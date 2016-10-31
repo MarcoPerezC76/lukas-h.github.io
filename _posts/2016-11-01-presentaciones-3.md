@@ -83,3 +83,8 @@ Entre los temas que puedes escoger se encuentran:
 ![]({{ site.baseurl }}/images/2016-10-29-presentaciones-1/arch1temas.png)
 <br>
 7.Guarde su archivo con el nombre “Presentación 1 – NOMBRE COMPLETO GRUPO”.
+
+***LOS DOCUMENTOS GENERADOS DEBERÁN SER ENTREGADOS EN LA SIGUIENTE DIRECCIÓN DE CORREO ELECTRÓNICO:*** <br>
+<center>
+<h3>marco.perez.cetis76@gmail.com</h3>
+</center>

@@ -92,3 +92,7 @@ También podemos crear botones que nos muevan entre diapositivas, para esto debe
 6.	Cree una nueva diapositiva con el diseño de solo título, cambie el título por “Clips multimedia e hipervínculos”, en esta diapositiva deberá agregar un Audio, un Video y un hipervínculo a cualquier página web.
 7.	Guarde el archivo con el nombre: “Presentación 2 – NOMBRE COMPLETO y GRUPO”.
 
+***LOS DOCUMENTOS GENERADOS DEBERÁN SER ENTREGADOS EN LA SIGUIENTE DIRECCIÓN DE CORREO ELECTRÓNICO:*** <br>
+<center>
+<h3>marco.perez.cetis76@gmail.com</h3>
+</center>
