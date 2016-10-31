@@ -75,6 +75,6 @@ El primer paso a seguir es la planeación, proceso que permite darle orden lógi
 ***
 ***
 
-# Actividad:
+## Actividad:
 
 <a target="_blank" href="https://goo.gl/forms/XHUxgbvDbT8s77rn1">Formulario 1</a>

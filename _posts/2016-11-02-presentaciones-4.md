@@ -12,17 +12,21 @@ author: "Marco Antonio"
 
 Para insertar una tabla en una diapositiva sigue los pasos:
 
-1. Da clic en Insertar
-2. Haz clic en la opción Tabla, se desplegara un menú para que selecciones le tamaño de tu tabla.
-3. Las tablas se dibujan igual que en Word.
- 
-4. Una vez seleccionado el tamaño de tu tabla, esta se insertara automáticamente en la diapositiva que estés trabajando.
-5. Después introduce tus datos en la tabla y listo.
+1. Da clic en Insertar. <br><br>
+2. Haz clic en la opción Tabla, se desplegara un menú para que selecciones le tamaño de tu tabla. <br><br>
+3. Las tablas se dibujan igual que en Word. <br><br>
+<br>
+![]({{ site.baseurl }}/images/2016-10-29-presentaciones-1/insertarTabla.png)
+<br>
+4. Una vez seleccionado el tamaño de tu tabla, esta se insertara automáticamente en la diapositiva que estés trabajando. <br><br>
+5. Después introduce tus datos en la tabla y listo. <br><br>
 
 ## Ilustraciones y Smart Art
 
 Además de tablas podemos insertar en una diapositiva ilustraciones, estas comprenden tres grupos:
- 
+
+![]({{ site.baseurl }}/images/2016-10-29-presentaciones-1/ilustraciones.png)
+
 Para insertar un gráfico SmartArt deberás ir a la ficha Insertar y dar clic en el botón SmartArt, en donde encontraras una lista con las diferentes categorías de gráficos disponibles. 
 
 ## Clips multimedia y vínculos
@@ -33,13 +37,17 @@ Para agregar un video hay dos opciones:
 
 * Video en línea 
 * Video en Mi PC
- 
+
+![]({{ site.baseurl }}/images/2016-10-29-presentaciones-1/video.png)
+
 El Audio nos brinda tres posibles opciones para incluirlo en la presentación:
 
 1. Agregar audio desde un archivo en Mi PC, que puede ser alguna canción.
 2. La segunda opción permite grabar el audio, es decir, puedes crear tu propio audio.
 3. La tercera opción para incluir audio en tu presentación es Audio en Línea, con esta podrás buscar desde Office.com.
- 
+
+![]({{ site.baseurl }}/images/2016-10-29-presentaciones-1/audio.png)
+
 Para Insertar una diapositiva con Vínculos a internet tenemos dos opciones:
 
 * Hipervínculos rápidos
@@ -50,23 +58,31 @@ Para poner un hipervínculo rápido en la diapositiva, realiza lo siguiente:
 1. Escribe le nombre completo de la página de internet.
 2. Al terminar, presiona la barra espaciadora o la tecla enter.
 3. Se creara el hipervínculo automáticamente.
- 
+
+![]({{ site.baseurl }}/images/2016-10-29-presentaciones-1/linkAuto.png)
+
 Para un hipervínculo con texto o imagen especial, el proceso es otro, en este caso lo que debes hacer es:
 
 1. Abre o localiza el texto o imagen que contendrá el hipervínculo y selecciónalo
 2. Localiza el botón Insertar Hipervinculo en la ficha insertar y da clic.
 3. En la ventana, escribe la dirección web que deseas en el cuadro de dialogo Dirección y haz clic en aceptar.
- 
+
+![]({{ site.baseurl }}/images/2016-10-29-presentaciones-1/linkSpecial.png)
+
 También podemos crear botones que nos muevan entre diapositivas, para esto deberás:
 
 1. Insertar el texto o imagen que contendrá el hipervínculo y selecciónalo.
 2. Localiza el botón Insertar Hipervinculo en la ficha insertar y da clic.
 3. En el menú que aparece, localiza la opción Lugar de este documento, y da clic en la diapositiva que deseas que brinque la presentación.
- 
+
+![]({{ site.baseurl }}/images/2016-10-29-presentaciones-1/linkDiapo.png)
+
 ***
 ***
 
-## Actividad 3:
+## Actividad:
+
+### Archivo 2
 
 1.	Cree una nueva presentación en blanco.
 2.	Seleccione un tema para esta presentación.

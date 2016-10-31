@@ -66,17 +66,19 @@ Entre los temas que puedes escoger se encuentran:
 ***
 ***
 
-# Actividad 2:
+## Actividad:
 
-1.Cree una nueva presentación en blanco. <br>       
-2.En la primer diapositiva, de cómo título a la presentación “Mi Primer presentación” y como subtítulo su Nombre COMPLETO. <br>
-3.Agregue nuevas diapositivas, una por cada diseño disponible. En la ficha Inicio, dentro del grupo Diapositivas, con el comando Nueva Diapositiva. <br>  
+### Archivo 1
+
+1.Cree una nueva presentación en blanco.<br><br>
+2.En la primer diapositiva, de cómo título a la presentación “Mi Primer presentación” y como subtítulo su Nombre COMPLETO. <br><br>
+3.Agregue nuevas diapositivas, una por cada diseño disponible. En la ficha Inicio, dentro del grupo Diapositivas, con el comando Nueva Diapositiva. <br><br> 
 <br>
 ![]({{ site.baseurl }}/images/2016-10-29-presentaciones-1/arch1diseños.png)
 <br>
-4.Elimine la diapositiva con diseño en blanco. <br>
-5.Duplique la diapositiva con diseño Solo título. <br>
-6.Aplique cualquier tema a toda la presentación. En la ficha Diseño, dentro del grupo Temas, selección el de su preferencia. <br>
+4.Elimine la diapositiva con diseño en blanco. <br><br>
+5.Duplique la diapositiva con diseño Solo título. <br><br>
+6.Aplique cualquier tema a toda la presentación. En la ficha Diseño, dentro del grupo Temas, selección el de su preferencia. <br><br>
 <br>
 ![]({{ site.baseurl }}/images/2016-10-29-presentaciones-1/arch1temas.png)
 <br>
