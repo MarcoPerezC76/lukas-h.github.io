@@ -25,7 +25,7 @@ Para insertar una tabla en una diapositiva sigue los pasos:
 
 Además de tablas podemos insertar en una diapositiva ilustraciones, estas comprenden tres grupos:
 
-![]({{ site.baseurl }}/images/2016-10-29-presentaciones-1/ilustraciones.png)
+![]({{ site.baseurl }}/images/2016-10-29-presentaciones-1/ilustraciones.PNG)
 
 Para insertar un gráfico SmartArt deberás ir a la ficha Insertar y dar clic en el botón SmartArt, en donde encontraras una lista con las diferentes categorías de gráficos disponibles. 
 

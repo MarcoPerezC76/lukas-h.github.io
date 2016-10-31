@@ -20,7 +20,7 @@ Otras opciones para personalizar la transición incluyen:
 
 ![]({{ site.baseurl }}/images/2016-10-29-presentaciones-1/opTrans.png)
 
-![]({{ site.baseurl }}/images/2016-10-29-presentaciones-1/opAnim.png)
+![]({{ site.baseurl }}/images/2016-10-29-presentaciones-1/opAnim.PNG)
 
 Las animaciones son efectos visuales que acompañan al texto, imágenes u objetos de nuestras diapositivas.
 
@@ -36,7 +36,7 @@ El botón Opciones de Efectos permite modificar las propiedades de una animació
 
 Hay cuatro categorías de animación:
 
-![]({{ site.baseurl }}/images/2016-10-29-presentaciones-1/tiposAnim.png)
+![]({{ site.baseurl }}/images/2016-10-29-presentaciones-1/tiposAnim.PNG)
 
 El botón Agregar Animación permite dar más de una animación al mismo objeto, estas se ordenan conforme se agregan, pero es posible cambiar el orden.
 
