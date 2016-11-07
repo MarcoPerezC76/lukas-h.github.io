@@ -72,6 +72,8 @@ El primer paso a seguir es la planeación, proceso que permite darle orden lógi
 <br>
 ![]({{ site.baseurl }}/images/2016-10-29-presentaciones-1/preguntas.png)
 
+<iframe id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="550" height="400" src="https://prezi.com/embed/xpensvh3o1yj/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE1iejlPc2ZuVWRJM0RzZnBybnpodVhnNkoyeWNkeVFSbmh0QmYzL2lmOD0&amp;landing_sign=-DH3TfHqzDyL2uOARk2JfDz3NyKEpsI6de2Hymm8Z1o"></iframe>
+
 ***
 ***
 

@@ -5,6 +5,7 @@ date:   2016-11-07 17:30:00 +0200
 tags: ['Presentacion', 'Electronica', 'Prezi']
 author: "Marco Antonio"
 ---
+
 # PREZI
 
 Prezi es una herramienta de presentaciones. Prezi está disponible en versión web, en versión escritorio para Windows y Mac OS, dicha versión no es gratuita y como aplicación para iPhone y Android.
