@@ -23,20 +23,30 @@ Prezi a diferencia de otras herramientas para la realización de presentaciones 
 En dicho lienzo será donde podremos situar los diversos elementos que compondrán nuestra presentación y para utilizaremos unas rutas para organizar el orden por el que nos vamos a ir desplazando entre dichos elementos.
 
 Para empezar desde la pantalla principal de Prezi pulsaremos sobre Nueva Prezi y elegiremos Iniciar Prezi en blanco.
- 
- 
+<br> <br>
+![]({{ site.baseurl }}/images/2016-11-07-prezi/crear.png)
+![]({{ site.baseurl }}/images/2016-11-07-prezi/iniciarBlanco.png)
+<br><br>
 Nos aparecerá una presentación como vemos tenemos el lienzo cuadriculado y nos aparece sobre él un texto y un círculo.
- 
+<br> <br>
+![]({{ site.baseurl }}/images/2016-11-07-prezi/nuevaBlanco.png)
+<br><br>
 Lo primero que vamos a hacer ver como navegamos por el lienzo. 
 
 Si situamos el ratón en el lateral derecho
- 
-Vemos como nos aparecerán los símbolos para acercar el zoom y para alejar el zoom  con  volveremos a la posición inicial.
+<br> <br>
+![]({{ site.baseurl }}/images/2016-11-07-prezi/zoom.png)
+<br><br>
+Vemos como nos aparecerán los símbolos para acercar el zoom y para alejar el zoom ![]({{ site.baseurl }}/images/2016-11-07-prezi/zoom2.png) con ![]({{ site.baseurl }}/images/2016-11-07-prezi/home.png)  volveremos a la posición inicial.
 
 Para movernos por el lienzo mantendremos pulsado el botón izquierdo del ratón y nos aparecerá una mano y nos permitirá movernos arriba y abajo a izquierda y derecha.
 
 Tenemos 2 opciones para Eliminar objetos, pulsamos sobre ellos con el botón derecho y elegimos eliminar del cuadro de dialogo o pulsamos con el botón izquierdo, se seleccionara el objeto y pulsamos sobre la papelera para eliminar.
-  
+<br> <br>
+![]({{ site.baseurl }}/images/2016-11-07-prezi/eliminar.png)
+![]({{ site.baseurl }}/images/2016-11-07-prezi/eliminar2.png)
+<br><br>
+
 ***
 ***
 
