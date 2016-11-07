@@ -52,7 +52,7 @@ Tenemos 2 opciones para Eliminar objetos, pulsamos sobre ellos con el botón der
 
 # Actividad 6:
 
-1.Registrate en prezi.
+1.Registrate en prezi. <br>    
 2.Explora los prezis de otros usuarios.
 
 <a target="_blank" href="https://prezi.com/explore/staff-picks/#">Explora Prezi</a>
