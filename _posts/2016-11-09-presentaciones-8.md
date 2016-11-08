@@ -53,12 +53,9 @@ Las modificaciones que podemos realizar con la imagen son:
 <br>
 * Si lo que necesitamos es solamente una parte de la imagen, la podremos recortar, pulsaremos sobre Recortar imagen  y podremos mover las esquinas de la misma para seleccionar el área que nos interese.
 <br>
-![]({{ site.baseurl }}/images/2016-11-07-prezi/recortarImg.png)
+![]({{ site.baseurl }}/images/2016-11-07-prezi/recortarImg.png) ![]({{ site.baseurl }}/images/2016-11-07-prezi/imgRecortada.png)
 <br>
 * Finalmente con Sustituir ![]({{ site.baseurl }}/images/2016-11-07-prezi/sustituir.png) podremos cambiar esa imagen por otra nueva, que la recortar para que ocupe el mismo espacio que esta.
-<br>
-![]({{ site.baseurl }}/images/2016-11-07-prezi/imgRecortada.png)
-<br>
 
 ## Símbolos y formas
 
