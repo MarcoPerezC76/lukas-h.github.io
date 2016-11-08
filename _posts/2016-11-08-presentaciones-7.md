@@ -10,7 +10,7 @@ author: "Marco Antonio"
 
 ## Personalizar el tapiz
 
-modificar el tipo de texto y los colores que utilizamos en el mismo y en las líneas y flechas así como la forma de incorporar un fondo a nuestra presentación.
+Podemos modificar el tipo de texto y los colores que utilizamos en el mismo y en las líneas y flechas así como la forma de incorporar un fondo a nuestra presentación.
 
 Para esto pulsaremos sobre Temas personalizar el tema actual.
 
@@ -86,10 +86,17 @@ Para trabajar con una plantilla, escogeremos la plantilla deseada y luego haremo
 # Actividad 7:
 
 1.Cree una presentacion en blanco.
+
 2.El titulo sera Operaciones.
+
 3.Cambie el papel tapiz del lienzo.
+
 4.Agregue uno de cada tipo de marcos disponibles.
+
 5.En el primer marco debera poner el titulo: "Primer Marco", en el siguiente: "Segundo Marco", etc.
+
 6.A cada titulo dele una animacion.
+
 7.Edite la ruta para que quede en orden decendente.
+
 8.Envie el link a su Prezi por correo.
