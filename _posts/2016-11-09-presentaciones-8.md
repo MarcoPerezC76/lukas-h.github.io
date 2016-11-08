@@ -113,7 +113,7 @@ No podremos añadir más de un archivo de música de fondo si ya tenemos uno nos
 
 Prezi también nos permite insertar archivo de Power Point con extensión .ppt o .pptx para insertar los mismos iremos a Insertar y elegiremos Power Point.
 <br>
-![]({{ site.baseurl }}/images/2016-11-07-prezi/PowerPoint.PNG)
+![]({{ site.baseurl }}/images/2016-11-07-prezi/powerPoint.PNG)
 <br>
 Elegiremos de nuestro ordenador la presentación que queramos importar y después de unos minutos, Prezi descargara el archivo y nos mostrara una vista previa de todas las diapositivas del Power Point en el panel de la derecha.
 <br>
