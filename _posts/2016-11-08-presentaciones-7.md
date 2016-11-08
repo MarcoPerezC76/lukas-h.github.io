@@ -20,6 +20,7 @@ Nos aparecerá un asistente que podremos utilizar en modo asistente o avanzado. 
 <br>
 ![]({{ site.baseurl }}/images/2016-11-07-prezi/fondoTema.PNG)
 <br>
+
 ## Marcos
 
 Los marcos son una herramienta muy útil que permite agrupar elementos y enmarcar ideas. Si se modifica (mueve, escala o rota) un marco de estos, también se modifican los elementos que contiene. Dentro de Prezi tenemos 4 tipos de marcos.
@@ -75,6 +76,7 @@ Nos aparecerá la siguiente pantalla y podremos ir pulsando sobre cada objeto qu
 <br>
 ![]({{ site.baseurl }}/images/2016-11-07-prezi/anim.PNG) ![]({{ site.baseurl }}/images/2016-11-07-prezi/anim2.PNG)
 <br>
+
 ## Plantillas
 
 Al crear un prezi, podemos elegir entre una serie de plantillas reutilizables o lienzos en blanco. Si decidimos usar una plantilla, podemos editar todo lo que vemos en el lienzo igual que si estuviéramos creando nuestra propia prezi, incluso copiar y pegar contenido creado anteriormente de otras prezis o aplicaciones.
@@ -87,8 +89,9 @@ Prezi cuenta con plantillas en 2D y 3D. Todas las plantillas cuentan con element
 <br>
 Para trabajar con una plantilla, escogeremos la plantilla deseada y luego haremos clic en el botón “Usar plantilla”. Una vez que se escoge una plantilla no se puede cambiar por otra.
 <br>
-![]({{ site.baseurl }}/images/2016-11-07-prezi/usarPlantillas.PNG)
+![]({{ site.baseurl }}/images/2016-11-07-prezi/usarPlantilla.PNG)
 <br>
+
 ***
 ***
 
