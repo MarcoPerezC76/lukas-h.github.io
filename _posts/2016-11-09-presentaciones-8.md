@@ -112,21 +112,21 @@ No podremos añadir más de un archivo de música de fondo si ya tenemos uno nos
 ## PowerPoint
 
 Prezi también nos permite insertar archivo de Power Point con extensión .ppt o .pptx para insertar los mismos iremos a Insertar y elegiremos Power Point.
-
+<br>
+![]({{ site.baseurl }}/images/2016-11-07-prezi/PowerPoint.PNG)
+<br>
 Elegiremos de nuestro ordenador la presentación que queramos importar y después de unos minutos, Prezi descargara el archivo y nos mostrara una vista previa de todas las diapositivas del Power Point en el panel de la derecha.
-
+<br>
+![]({{ site.baseurl }}/images/2016-11-07-prezi/PPArch.PNG)
+<br>
+<br>
+![]({{ site.baseurl }}/images/2016-11-07-prezi/subiendoPP.PNG)
+<br>
+![]({{ site.baseurl }}/images/2016-11-07-prezi/PParriba.PNG)
 Podemos arrastrar y soltar las diapositivas que queramos dentro de nuestro lienzo o hacer doble clic sobre ellas para insertarlas, también podemos seleccionar más de una diapositiva a la vez.
-
-También podemos utilizar insertar todas pulsando sobre Insert All, trasladara todas las diapositivas al mismo tiempo, si
-
-Si elegimos esta opción tendremos que elegir una plantilla para definir la forma que insertara las diapositivas en nuestro tapiz.
-
-Podremos elegir que agregue o no una ruta entre las diapositivas (Add a path between your slides). La ruta seguirá la misma secuencia que las diapositivas en PowerPoint, de tal forma que la primera diapositiva se convertirá en el primer paso de la ruta en la prezi, y así sucesivamente y siempre en función del número de diapositivas que tengas.
-
-Al seleccionar importar todas las diapositivas a la vez, estas se mostrarán dentro de un marco del lienzo de la prezi. Utiliza el icono en forma de mano situado en el centro del marco para mover las diapositivas por la superficie del lienzo. Haz clic en el icono verde de comprobación para aprobar la importación. O bien, puedes seleccionar el icono rojo X para cancelar la importación e iniciar el proceso de nuevo.
-
-Cuando hayamos terminado de importar todo lo que deseemos de nuestro archivo PowerPoint, podemos importar varias veces una diapositiva, haremos clic en el icono X situado en el extremo superior izquierdo del panel lateral para finalizar la sesión de importación. Aparecerá un mensaje de confirmación: simplemente selecciona “Cerrar Import” (Close Import) para finalizar la sesión de importación.
-
+<br>
+![]({{ site.baseurl }}/images/2016-11-07-prezi/arrastrarPP.PNG)
+<br>
 Prezi no admite determinados elementos de edición de textos que están presentes en aplicaciones como PowerPoint (por ejemplo, negrita o cursiva), por lo tanto parte del formato de algunas diapositivas no coincidirá exactamente con el formato original de la diapositiva. De igual modo, cualquier animación de fundido creada en PowerPoint no estará presente en tu prezi: se mostrarán los objetos, pero no estarán animados.
 
 ***
