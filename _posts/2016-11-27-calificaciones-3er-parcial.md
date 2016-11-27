@@ -11,14 +11,14 @@ author: "Marco Antonio"
 
 ## Calificaciones de las practicas para que sepan si les falta algo
 
-<a href="https://github.com/marcoC76/marcoc76.github.io/raw/master/pdf/tercerParcial%20A.pdf">Primero A</a>
+<a href="https://github.com/marcoC76/marcoc76.github.io/raw/master/pdf/tercerParcial%20A.pdf">Practicas Primero A</a>
 <br>
 <br>
-<a href="https://github.com/marcoC76/marcoc76.github.io/raw/master/pdf/tercerParcial%20B.pdf">Primero B</a>
+<a href="https://github.com/marcoC76/marcoc76.github.io/raw/master/pdf/tercerParcial%20B.pdf">Practicas Primero B</a>
 
 ## Promedios en base a las calificaciones de arriba
 
-<a href="https://github.com/marcoC76/marcoc76.github.io/raw/master/pdf/tercerParcialPromedios%20A.pdf">Primero A</a>
+<a href="https://github.com/marcoC76/marcoc76.github.io/raw/master/pdf/tercerParcialPromedios%20A.pdf">Promedios Primero A</a>
 <br>
 <br>
-<a href="https://github.com/marcoC76/marcoc76.github.io/raw/master/pdf/tercerParcialPromedios%20B.pdf">Primero B</a>
+<a href="https://github.com/marcoC76/marcoc76.github.io/raw/master/pdf/tercerParcialPromedios%20B.pdf">Promedios Primero B</a>
