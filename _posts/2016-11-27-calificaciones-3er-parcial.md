@@ -9,6 +9,7 @@ author: "Marco Antonio"
 
 ### Asi quedaron las calificaiones. 
 
-<iframe src="http://docs.google.com/gview?url=https://github.com/marcoC76/marcoc76.github.io/blob/master/pdf/tercerParcialPromedios%20A2.pdf&embedded=true" 
-        style="width:500px; height:375px;" 
-        frameborder="0"></iframe>
+<a href="https://github.com/marcoC76/marcoc76.github.io/raw/master/pdf/tercerParcialPromedios%20A2.pdf">Primero A</a>
+<br>
+<br>
+<a href="https://github.com/marcoC76/marcoc76.github.io/raw/master/pdf/tercerParcialPromedios%20B2.pdf">Primero B</a>
